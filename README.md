@@ -5,7 +5,8 @@
 - [x] Busqueda
 - [x] UpDown
 - [x] Sau
-- [ ] Help
+- [x] Help
+- [x] GoodGames
 - [ ] Broker
 - [ ] Intentions
 - [ ] Soccer
