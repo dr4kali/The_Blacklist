@@ -23,6 +23,8 @@
 - [x] LinkVortex
 - [ ] Usage
 - [x] MonitorsThree
+- [x] twomillion
+- [x] SteamCloud
 
 ## Windows Targets
 
